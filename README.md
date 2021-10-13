@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/41372bcf-834f-4bcf-a8a4-3c78e83a1ee3.svg)](https://wakatime.com/@41372bcf-834f-4bcf-a8a4-3c78e83a1ee3)
 <!--
 **Tony-Liou/Tony-Liou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +17,3 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tony-Liou&count_private=true&theme=react)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Tony-Liou&layout=compact)
