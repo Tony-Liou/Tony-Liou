@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Tony-Liou&count_private=true&theme=react)
-
 [![HackMD](https://hackmd.io/logo-full.svg)](https://hackmd.io/@ltony1024)
